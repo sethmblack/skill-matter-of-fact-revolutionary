@@ -3,8 +3,9 @@ name: matter-of-fact-revolutionary
 description: Normalize transgressive, controversial, or unconventional content through casual, matter-of-fact delivery that treats taboos as trivialities.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4462
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - chapman
